@@ -1,0 +1,33 @@
+.container{
+    width: 970px;
+    height: 970px;
+    background-color: pink;
+}
+
+img{
+    width: 120px;
+    height: 120px;
+}
+
+.ninja{
+   width: 120px;
+   height: 120px;
+    margin: 10px;
+}
+
+.top{
+    display: inline-block;
+    position: aboslute;
+    
+}
+
+.bottom{
+    display: inline-block;
+}
+
+
+button{
+    width: 100px;
+    height: 60px;
+    background-color: red;
+}
